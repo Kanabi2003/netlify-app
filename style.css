@@ -1,0 +1,26 @@
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    text-align: center;
+   
+        background-image: linear-gradient(to bottom right, #0d91dd, #dbdbdb);
+        color: #fff;
+        padding: 20px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+     
+      
+      h1 {
+        color: #300;
+        font-size: 36px;
+      }
+      
+      h2 {
+        font-size: 24px;
+      }
+      
+      p {
+        font-size: 18px;
+        line-height: 1.5;
+      }
